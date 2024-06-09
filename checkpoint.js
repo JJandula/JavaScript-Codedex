@@ -49,7 +49,7 @@ const mesUsuario = randomPos.toLowerCase()
 
 if (mesUsuario === "enero")
     console.log("Tu mes es Enero, eres Capricornio: " + randomIn)
-else if (mesUsuario === "eebrero")
+else if (mesUsuario === "febrero")
     console.log("Tu mes es Febrero, eres Acuario: " + randomIn)
 else if (mesUsuario === "marzo")
     console.log("Tu mes es Marzo, eres Piscis: " + randomIn)
